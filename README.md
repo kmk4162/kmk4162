@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-출처: https://kimasill.tistory.com/entry/Github-깃허브-프로필-꾸미기 [널디 코드 일기:티스토리]
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Mungyeong Kim%20render&fontSize=90)
+
