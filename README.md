@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 
  Please visit my github a lot!😄
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmk4162&count_private=true&show_icons=true&theme=dracula)]
 
